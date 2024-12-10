@@ -276,4 +276,6 @@ CombinedScene
 
 manim -pql 4_transform.py CombinedScene 
 
+Buen trabajo Lugo
+Atte. Profa. Hazem AR
 """
